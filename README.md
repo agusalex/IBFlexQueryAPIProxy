@@ -1,5 +1,5 @@
 # IBFlexQueryAPIProxy
-An API to allow making Flex Queries using csingley's ibflex
+An API to allow making Flex Queries to Interactive Brokers using csingley's ibflex
 
 Follow this guide to configure your Flex Queries in your Interactive Brokers account:
 
