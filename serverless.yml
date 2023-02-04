@@ -1,7 +1,0 @@
-service: quotes #name this whatever you want
- 
-provider:
- name: aws
- runtime: python3.9
- region: us-east-1
- memorySize: 128
